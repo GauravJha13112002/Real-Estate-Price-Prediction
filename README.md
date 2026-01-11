@@ -55,4 +55,4 @@ Contributions are welcome! If you have any ideas or improvements, feel free to s
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries or support, please reach out to me at [roshan742446@gmail.com](mailto:roshan742446@gmail.com).
+For any queries or support, please reach out to me at [gauravjha.se@gmail.com](mailto:gauravjha.se@gmail.com).
