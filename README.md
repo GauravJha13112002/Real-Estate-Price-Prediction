@@ -40,6 +40,8 @@ To run this project locally:
     python manage.py runserver
     ```
 5. Open your browser and go to `http://127.0.0.1:8000/` to access the application.
+6. Live Project Output :  reppapp.pythonanywhere.com
+    
 
 ## Project Structure
 - `real_estate_price_prediction/`: Main Django project directory
